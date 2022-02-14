@@ -7,8 +7,8 @@ p {
     opacity: 0.5;
 }
 .font1 {
-    font-size: 30px;
-    margin-top: 70px;
+    font-size: 25px;
+    margin-top: 40px;
 }
 .font2 {
     font-size: 20px;
@@ -169,8 +169,8 @@ p {
 .section [id="slide06"]:checked ~ .slidewrap .slidelist > li {transform: translateX(-500%);}
 
 .img-box {
-    width: 390px;
-    height: 422px;
+    width: 351px;
+    height: 378px;
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
@@ -178,8 +178,8 @@ p {
 }
 
 .img-box2 {
-    width: 390px;
-    height: 426px;
+    width: 351px;
+    height: 383px;
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
@@ -198,8 +198,8 @@ p {
 }
 
 .img-box4 {
-    width: 390px;
-    height: 396px;
+    width: 351px;
+    height: 357px;
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
@@ -208,8 +208,8 @@ p {
 }
 
 .img-box5 {
-    width: 390px;
-    height: 389px;
+    width: 351px;
+    height: 350px;
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
