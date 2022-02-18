@@ -6,46 +6,56 @@ p {
     text-align: center;
     opacity: 0.5;
 }
+
 .font1 {
-    font-size: 25px;
-    margin-top: 40px;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: -5px;
 }
 .font2 {
-    font-size: 20px;
+    font-size: 18px;
 }
-.font3 {
+.font3 { 
+    margin-top: 25px;
     margin-bottom: -10px;
+    
+}
+.font4 {
+    margin-bottom: -20px;
+
 }
 .font07 {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .font8 {
-    margin-right: 100px;
+    margin-right: 130px;
     margin-bottom: -25px;
 }
 .font10 {
-    margin-right: 100px;
+    margin-right: 130px;
     margin-top: -25px;
     margin-bottom: 20px; 
 }
-.font11 {
-    margin-left: 100px;
+.bold01 {
+    margin-left: 120px;
     font-size: 19px;
-    margin-top: -44px;
+    margin-top: -43px;
+    font-weight: 700;
 }
 .font12 {
-    margin-right: 100px;
+    margin-right: 130px;
     margin-bottom: -25px;
 }
 .font14 {
-    margin-right: 100px;
+    margin-right: 130px;
     margin-top: -25px;
 }
-.font15 {
-    margin-left: 100px;
+.bold02 {
+    margin-left: 120px;
     font-size: 19px;
     margin-top: -60px;
+    font-weight: 700;
 }
 
 .font16 {
@@ -76,9 +86,11 @@ p {
     color: rgb(169, 196, 162);
     opacity: 1;
     font-size: 19px;
+    font-weight: 700;
 }
 .font34 {
     margin-bottom: -10px;
+    font-size: 16px;
 }
 .font35 {
     color: rgb(169, 196, 162);
@@ -184,7 +196,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
-    margin-bottom: 50px;
+    margin-bottom: 65px;
 }
 
 .img-box3 {
@@ -194,6 +206,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+    margin-top: 50px;
     
 }
 
@@ -203,7 +216,7 @@ p {
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 85px;
     margin-bottom: 30px;
 }
 
@@ -213,7 +226,8 @@ p {
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 40px;
+    margin-bottom: 55px;
+    margin-top: 55px;
 }
 
 .img-box6 {
@@ -222,6 +236,8 @@ p {
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 
