@@ -99,6 +99,7 @@ p {
 .font36 {
     color: rgb(169, 196, 162);
     opacity: 1;
+    margin-bottom: 50px;
 }
 .font37 {
     margin-right: 100px;
@@ -235,7 +236,7 @@ p {
     background-color: skyblue;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
     margin-top: 50px;
 }
 
